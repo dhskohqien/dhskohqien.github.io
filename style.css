@@ -8,6 +8,9 @@ p {
     font-size: 20px;
     text-align:center;
 }
+li {
+    text-align:centre;
+}
 body {
     background-image:img scr="background.jpg";
 }

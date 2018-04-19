@@ -1,16 +1,16 @@
 <head>
 h1{
-font-family:arial;
-color:turquoise
+font-family:verdana;
+color:#3399ff
 }
 h2{
-font-family:arial;
-color:white
+font-family:verdana;
+color:#ffffff
 }
 <link rel="stylesheet"href="/style.css"/>
 </head>
 p{
-font-family:verdana;
+font-family:courier;
 }
 body{
  background-color:#ff6666

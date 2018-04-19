@@ -1,17 +1,12 @@
 h1 {
     color:black;
-    text-align:center;
 }
 
 p {
     font-family:verdana;
     font-size: 20px;
-    text-align:center;
 }
-li {
-    text-align:centre;
-}
-body {
-    background-image:img scr="background.jpg";
+body  {
+    background-image: url("background.jpg");
 }
 
